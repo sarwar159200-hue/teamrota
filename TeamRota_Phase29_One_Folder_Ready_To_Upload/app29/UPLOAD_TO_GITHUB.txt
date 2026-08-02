@@ -1,0 +1,12 @@
+TEAMROTA PHASE 29 - ONE FOLDER UPLOAD
+
+1. Extract the ZIP.
+2. Open the folder named app29.
+3. Select everything INSIDE app29 (app, lib, public, supabase, package.json, etc.).
+4. In GitHub, open the ROOT of the teamrota repository.
+5. Choose Add file > Upload files.
+6. Drag the selected CONTENTS into GitHub.
+7. Commit to main.
+8. In Vercel, leave Root Directory empty and redeploy without build cache.
+
+Do not upload the outer ZIP name as an extra nested folder if you want Vercel Root Directory to remain empty.
